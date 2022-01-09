@@ -1,6 +1,6 @@
 # RESTapi
 
-Server starting code:
+Server starting code
 
 const express = require("express");
 const bodyParser = require("body-parser");
